@@ -12,3 +12,5 @@ LINK_REPO
 <!-- link para acessar o repositorio -->
 
 Criei um arquivo .gitignore para ignorar o arquivo credentials, depois fiz uma descrição das variaveis que criei no arquivo .env
+
+![alt text](image.png)
